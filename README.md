@@ -1,5 +1,8 @@
 # My First Web Page
 
+https://fadumasaidcodes.github.io/Syntax-lesson/
+
+
 This repository contains a simple web page that showcases various HTML elements, including headings, images, links, lists, tables, and an embedded YouTube video. It serves as an introductory example of how to create a basic web page using HTML and CSS.
 
 ## Table of Contents
